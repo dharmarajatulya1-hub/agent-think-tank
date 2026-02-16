@@ -163,7 +163,7 @@ More advanced implementations can:
 - Trigger agents on events (new note → run Saul)
 - Store briefs in a searchable history
 
-The full prompts and architecture docs are in the [GitHub repo](https://github.com/USERNAME/agent-think-tank).
+The full prompts and architecture docs are in the [GitHub repo](https://github.com/phaniteja1/agent-think-tank).
 
 ---
 
@@ -216,7 +216,7 @@ It's overkill if you just need a todo list. It's essential if you're juggling co
 
 The full system—agent prompts, architecture docs, and example outputs—is open source:
 
-**[github.com/USERNAME/agent-think-tank](https://github.com/USERNAME/agent-think-tank)**
+**[github.com/phaniteja1/agent-think-tank](https://github.com/phaniteja1/agent-think-tank)**
 
 Use it, fork it, improve it. If you build something cool, share it.
 
